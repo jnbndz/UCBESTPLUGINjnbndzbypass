@@ -408,8 +408,8 @@
             ]
         },
         {
-            "Name": "drugz ong",
-            "Icon": "pill-bottle",
+            "Name": "medicine ong",
+            "Icon": "syringe",
             "Content": [
                 "cyanide pills",
                 "fentanyl",
